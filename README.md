@@ -1,5 +1,5 @@
 # simple-chat
-very simple cli-based chat application, made with python
+very simple cli-based chat application with no database, made with python
 ## you can
 - sign in
 - log in
