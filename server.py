@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import json
 import socket
 import socketserver
@@ -213,7 +212,7 @@ def main() -> None:
 if __name__ ==  "__main__":
 	main()
 
-=======
+
 import json
 import socket
 import socketserver
@@ -428,5 +427,4 @@ def main() -> None:
 if __name__ ==  "__main__":
 	main()
 
->>>>>>> 3c99323 (adding GUI interface)
 #-> TODO: do better testing
